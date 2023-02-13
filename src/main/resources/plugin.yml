@@ -1,0 +1,6 @@
+name: Cmo
+version: '${project.version}'
+main: jp.thirtycraft.cmo.Cmo
+api-version: 1.19
+
+
